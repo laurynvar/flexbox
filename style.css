@@ -1,0 +1,12 @@
+.flexbox {
+  /* height: 200px; */
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  background-color: black;
+}
+span {
+  background-color: black;
+  color: white;
+}
